@@ -1,0 +1,24 @@
+0 Buenos aires
+1 CABA
+2 Catamarca
+3 Chaco
+4 Chubut
+5 Cordoba
+6 corrientes
+7 entre rios
+8 formosa
+9 jujuy
+10 la pampa
+11 la rioja
+12 mendoza
+13 misiones
+14 neuquen
+15 rio negro
+16 salta
+17 san juan
+18 san luis
+19 santa cruz
+20 santa fe
+21 santiago del estero
+22 tierra del fuego
+23 tucuman

@@ -1,0 +1,4 @@
+Hola, este es un tweet corto.
+Este es un tweet que tiene exactamente 140 caracteres. Aseguremonos de que se trunque correctamente si es necesario. 
+Este es un tweet muy largo que supera el limite de 140 caracteres porque queremos probar que pasa cuando la linea es demasiado extensa para el formato permitido en el sistema.
+ULTIMO MOMENTO! ANA JAULA CARBONE TINE LA INCREIBLE HABILIDAD DE CHAPAR!! HOLY SHIT!.

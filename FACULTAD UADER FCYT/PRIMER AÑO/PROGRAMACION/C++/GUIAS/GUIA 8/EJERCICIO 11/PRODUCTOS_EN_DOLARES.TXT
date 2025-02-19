@@ -1,0 +1,15 @@
+1
+atun
+25
+2
+zanahoria
+5
+3
+banana
+7
+4
+pure
+8
+5
+aspiradora
+15

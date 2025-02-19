@@ -1,0 +1,15 @@
+1
+atun
+25000
+2
+zanahoria
+5000
+3
+banana
+7000
+4
+pure
+8000
+5
+aspiradora
+15000

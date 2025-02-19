@@ -1,0 +1,47 @@
+A001
+Asma
+B002
+Bronquitis Cronica
+C003
+Enfisema Pulmonar
+D004
+Fibrosis Pulmonar
+E005
+Neumonia
+F006
+Sindrome de Dificultad Respiratoria Aguda
+G007
+Apnea del Suenio
+H008
+Tuberculosis
+I009
+Enfermedad Pulmonar Obstructiva Cronica
+J010
+Bronquiolitis
+K011
+Eosinofilia Pulmonar
+L012
+Edema Pulmonar
+M013
+Hipertension Pulmonar
+N014
+Tromboembolismo Pulmonar
+O015
+Neumotorax
+P016
+Sarcoidosis Pulmonar
+Q017
+Enfermedad Intersticial Pulmonar
+R018
+Enfermedad Pulmonar Vascular
+S019
+Hipersensibilidad Pulmonar
+T020
+Insuficiencia Respiratoria Cronica
+U021
+Enfermedad Pulmonar Neonatal
+V022
+Infeccion Respiratoria Aguda
+W023
+Asbestosis
+
